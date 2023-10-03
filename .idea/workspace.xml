@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="更新了FriendsClass">
-      <change afterPath="$PROJECT_DIR$/src/Process_Control/friendsClass.java" afterDir="false" />
+    <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="更新了循环">
+      <change afterPath="$PROJECT_DIR$/src/Process_Control/multiplicationClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "OkabeRuntaro"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OkabeRuntaro&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -55,6 +56,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitMods/GitJava/IfTest/fuctionTest&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,7 +65,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.friendsClass">
+  <component name="RunManager" selected="应用程序.multiplicationClass">
+    <configuration name="continueClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Process_Control.continueClass" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Process_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="friendsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Process_Control.friendsClass" />
       <module name="If" />
@@ -77,8 +92,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="memberClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Process_Control.memberClass" />
+    <configuration name="multiplicationClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Process_Control.multiplicationClass" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Process_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switchClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Process_Control.switchClass" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Process_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Process_Control.whileClass" />
       <module name="If" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.multiplicationClass" />
+        <item itemvalue="应用程序.continueClass" />
+        <item itemvalue="应用程序.whileClass" />
+        <item itemvalue="应用程序.switchClass" />
         <item itemvalue="应用程序.friendsClass" />
-        <item itemvalue="应用程序.memberClass" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +150,11 @@
       <option name="presentableId" value="Default" />
       <updated>1696211776986</updated>
       <workItem from="1696211777998" duration="1455000" />
+      <workItem from="1696292753211" duration="5279000" />
+      <workItem from="1696301819571" duration="998000" />
+      <workItem from="1696308102459" duration="254000" />
+      <workItem from="1696308774326" duration="2000" />
+      <workItem from="1696308790428" duration="2820000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -123,17 +172,45 @@
       <option name="project" value="LOCAL" />
       <updated>1696229204756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新了FriendsClass">
+      <option name="closed" value="true" />
+      <created>1696231569472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696231569472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新了循环">
+      <option name="closed" value="true" />
+      <created>1696301360492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696301360492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
     <MESSAGE value="完善了IF判断条件" />
     <MESSAGE value="更新了FriendsClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了FriendsClass" />
+    <MESSAGE value="更新了循环" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了循环" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
