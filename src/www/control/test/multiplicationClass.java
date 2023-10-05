@@ -1,4 +1,4 @@
-package Process_Control;
+package www.control.test;
 
 public class multiplicationClass {
     //1*6=6 2*6=12 3*6=18 4*6=24 5*6=30 6*6=36

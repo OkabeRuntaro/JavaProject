@@ -1,4 +1,4 @@
-package Process_Control;
+package www.control.test;
 
 import java.util.Scanner;
 

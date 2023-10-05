@@ -1,4 +1,4 @@
-package Process_Control;
+package www.control.test;
 
 public class switchClass {
     public static void main(String[] args) {
