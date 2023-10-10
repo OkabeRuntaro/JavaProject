@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="更新">
-      <change afterPath="$PROJECT_DIR$/src/www/control/test/TestFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/faction/test/FactionTestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ArrayListTestThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ArrayListTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListAddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListIndexTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/IfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/MathIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/MathIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/continueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/continueClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/friendsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/friendsClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/memberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/memberClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/multiplicationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/multiplicationClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/switchClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/switchClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process_Control/whileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/control/test/whileClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,24 +52,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/GitMods/GitJava/IfTest/fuctionTest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "D:/GitMods/GitJava/IfTest/If/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitMods/GitJava/IfTest/fuctionTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/GitMods/GitJava/IfTest/If/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="应用程序.ListAddTest">
+    <configuration name="ArrayListTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ArrayListTestOne" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.list.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTestThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ArrayListTestThree" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.list.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactionTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.faction.test.FactionTestOne" />
       <module name="If" />
@@ -88,8 +114,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListAddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ListAddTest" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.list.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIndexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ListIndexTest" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.list.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ListAddTest" />
+        <item itemvalue="应用程序.ListIndexTest" />
+        <item itemvalue="应用程序.ArrayListTestThree" />
+        <item itemvalue="应用程序.ArrayListTestOne" />
         <item itemvalue="应用程序.FactionTestOne" />
       </list>
     </recent_temporary>
@@ -108,7 +164,20 @@
       <workItem from="1696308102459" duration="254000" />
       <workItem from="1696308774326" duration="2000" />
       <workItem from="1696308790428" duration="3624000" />
-      <workItem from="1696467768671" duration="7597000" />
+      <workItem from="1696467768671" duration="7682000" />
+      <workItem from="1696495327250" duration="609000" />
+      <workItem from="1696520644632" duration="49000" />
+      <workItem from="1696555773449" duration="4785000" />
+      <workItem from="1696603813954" duration="83000" />
+      <workItem from="1696603909220" duration="848000" />
+      <workItem from="1696649959320" duration="2659000" />
+      <workItem from="1696657406405" duration="1080000" />
+      <workItem from="1696658518136" duration="201000" />
+      <workItem from="1696658738581" duration="1221000" />
+      <workItem from="1696741508280" duration="625000" />
+      <workItem from="1696742150449" duration="2282000" />
+      <workItem from="1696820471878" duration="2238000" />
+      <workItem from="1696904616794" duration="2622000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -150,18 +219,71 @@
       <option name="project" value="LOCAL" />
       <updated>1696345990275</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新">
+      <option name="closed" value="true" />
+      <created>1696495258922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696495258922</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新">
+      <option name="closed" value="true" />
+      <created>1696603854776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696603854776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
