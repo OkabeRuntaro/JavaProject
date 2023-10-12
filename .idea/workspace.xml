@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="更新">
-      <change afterPath="$PROJECT_DIR$/src/www/list/test/ArrayListTestThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/list/test/ArrayListTestTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListAddTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/www/list/test/ListDeleteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/www/list/test/ListUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,20 +71,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ListAddTest">
-    <configuration name="ArrayListTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.list.test.ArrayListTestOne" />
-      <module name="If" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="www.list.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.ListUtilTest">
     <configuration name="ArrayListTestThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.list.test.ArrayListTestThree" />
       <module name="If" />
@@ -101,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactionTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.faction.test.FactionTestOne" />
+    <configuration name="ListAddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ListAddTest" />
       <module name="If" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.faction.test.*" />
+          <option name="PATTERN" value="www.list.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListAddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.list.test.ListAddTest" />
+    <configuration name="ListDeleteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ListDeleteTest" />
       <module name="If" />
       <extension name="coverage">
         <pattern>
@@ -140,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.list.test.ListUtilTest" />
+      <module name="If" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.list.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ListUtilTest" />
+        <item itemvalue="应用程序.ListDeleteTest" />
         <item itemvalue="应用程序.ListAddTest" />
         <item itemvalue="应用程序.ListIndexTest" />
         <item itemvalue="应用程序.ArrayListTestThree" />
-        <item itemvalue="应用程序.ArrayListTestOne" />
-        <item itemvalue="应用程序.FactionTestOne" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +174,9 @@
       <workItem from="1696741508280" duration="625000" />
       <workItem from="1696742150449" duration="2282000" />
       <workItem from="1696820471878" duration="2238000" />
-      <workItem from="1696904616794" duration="2622000" />
+      <workItem from="1696904616794" duration="5054000" />
+      <workItem from="1696992489491" duration="2956000" />
+      <workItem from="1697075416898" duration="4919000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -235,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696603854776</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新">
+      <option name="closed" value="true" />
+      <created>1696922600271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696922600271</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
