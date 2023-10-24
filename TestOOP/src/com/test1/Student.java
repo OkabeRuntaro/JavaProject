@@ -1,4 +1,6 @@
-package com.pojo;
+package com.test1;
+
+import com.test3.Person;
 
 public class Student {
     //封装

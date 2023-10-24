@@ -1,6 +1,6 @@
-package com.miko;
+package com.test2;
 
-import com.pojo.Student;
+import com.test1.Student;
 
 public class Main {
     int a;

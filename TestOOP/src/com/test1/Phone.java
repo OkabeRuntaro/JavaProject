@@ -1,4 +1,4 @@
-package com.pojo;
+package com.test1;
 
 public class Phone {
     double price;

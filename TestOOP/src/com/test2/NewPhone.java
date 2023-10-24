@@ -1,6 +1,6 @@
-package com.miko;
+package com.test2;
 
-import com.pojo.Phone;
+import com.test1.Phone;
 
 public class NewPhone {
     //这是程序的主入口
