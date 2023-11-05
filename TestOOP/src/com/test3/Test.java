@@ -11,5 +11,7 @@ public class Test {
         student.setName("张三");
 
         System.out.println(student);
+        System.out.println(student.getId());
+        System.out.println(student.getName());
     }
 }
