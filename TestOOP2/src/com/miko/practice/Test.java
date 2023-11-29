@@ -6,13 +6,13 @@ public class Test {
 
     //这是程序的主入口
     public static void main(String[] args) {
-        Drink drink = new Drink();
-        Scanner scanner = new Scanner(System.in);
 
+        Scanner scanner = new Scanner(System.in);
+//        =
 
         System.out.println("请输入你需要购买的饮品：1.可乐 2.咖啡 3.奶茶");
         int nexted = scanner.nextInt();
-        drink = DrinkShop.getDrink(nexted);//得到了需要的饮料对象
+        Drink drink = DrinkShop.getDrink(nexted);//得到了需要的饮料对象
 
 
 
