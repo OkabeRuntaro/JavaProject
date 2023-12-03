@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="新的项目！">
-      <change afterPath="$PROJECT_DIR$/TestOOP3/src/com/miko/test03/TestDateTimeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP3/src/com/miko/test03/TestLocalDate.java" afterDir="false" />
+    <list default="true" id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="LocalDateTime">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOOP3/src/com/miko/test02/TestCalenderPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestOOP3/src/com/miko/test02/TestCalenderPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOOP3/src/com/miko/test03/TestDateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestOOP3/src/com/miko/test03/TestDateTimeFormatter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -165,14 +163,17 @@
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.TestDateTimeFormatter" />
-        <item itemvalue="应用程序.TestLocalDate" />
         <item itemvalue="应用程序.TestCalenderPractice" />
+        <item itemvalue="应用程序.TestLocalDate" />
         <item itemvalue="应用程序.TestCalendar" />
         <item itemvalue="应用程序.TestSimpleDateFormat" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\1\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="85659d32-f7c4-42ee-884c-0cdd98acd647" name="更改" comment="" />
@@ -238,7 +239,9 @@
       <workItem from="1701229794976" duration="4134000" />
       <workItem from="1701268139147" duration="50000" />
       <workItem from="1701311434251" duration="7211000" />
-      <workItem from="1701399064068" duration="9925000" />
+      <workItem from="1701399064068" duration="10406000" />
+      <workItem from="1701582642931" duration="4619000" />
+      <workItem from="1701605143863" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -352,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701268100856</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="LocalDateTime">
+      <option name="closed" value="true" />
+      <created>1701441405928</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701441405928</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +426,8 @@
     <MESSAGE value="优化了文件路径" />
     <MESSAGE value="更新" />
     <MESSAGE value="新的项目！" />
-    <option name="LAST_COMMIT_MESSAGE" value="新的项目！" />
+    <MESSAGE value="LocalDateTime" />
+    <option name="LAST_COMMIT_MESSAGE" value="LocalDateTime" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
